@@ -1,6 +1,6 @@
 trigger:
 - '*'
-# New Comment
+# New Comments to test something
 variables:
   buildConfiguration: 'Release'
   releaseBranchName: 'release'
