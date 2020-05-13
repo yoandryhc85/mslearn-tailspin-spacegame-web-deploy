@@ -1,6 +1,6 @@
 trigger:
 - '*'
-
+# New Comment
 variables:
   buildConfiguration: 'Release'
   releaseBranchName: 'release'
